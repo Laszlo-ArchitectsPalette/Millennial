@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Laszlo Andrasi"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello! I’m Laszlo Andrasi—Architect, Artist, and Tech Enthusiast. Working in Chicago’s fast-paced architecture scene by day, bringing homes to life with watercolor and sketch by night.
+
+This page is my way of sharing the evolving intersections of architecture, technology, and art. Here, you’ll find insights on architecture trends, innovative advancements in AEC, and glimpses into my creative journey. Check out [my portfolio ](https://issuu.com/andrasi_design/docs/architects_palette_portfolio_summer24/) for my latest featured work along with how to request a commission.
