@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link:    'https://github.com/Laszlo-ArchitectsPalette'}
+- {icon: 'github', link:    'https://github.com/laz-ap'}
 - {icon: 'linkedin', link:   'https://www.linkedin.com/in/laszlo-andrasi-architecture/'}
 - {icon: 'instagram', link:  'https://www.instagram.com/architectpalette/'}
 - {icon: 'envelope', link:   'mailto:andrasi.design@gmail.com'}
