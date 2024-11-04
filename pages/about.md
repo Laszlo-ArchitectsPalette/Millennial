@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about
-Image: About_Author_WC.jpg
+
 ---
 
+Image: About_Author_WC.jpg
 
 Laszlo serves as the Design Application Manager for the Chicago studio of [Perkins&Will](https://perkinswill.com/), 
 where he oversees all digital-related initiatives. His role involves collaborating 
