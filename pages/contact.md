@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
+<img src="https://laz-ap.github.io/thoughts/assets/img/Welcome.jpg">
+
 # Thank you for exploring my website! 
 
 Please feel free to reach out via text or email, or connect with me on 
