@@ -4,4 +4,17 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Laszlo serves as the Design Application Manager for the Chicago studio, 
+where he oversees all digital-related initiatives. His role involves collaborating 
+with teams to develop innovative digital strategies and researching new 
+applications and technologies to enhance workflows and craft. Before 
+assuming this position, Laszlo worked as an architect in Los Angeles, Dallas, 
+and now Chicago, specializing in early-phase design and analysis of 
+hospitality and healthcare projects. 
+ 
+Laszlo’s design philosophy is founded on the belief that architecture shapes 
+the backdrop of daily life, with the power to enhance experiences and 
+uplift communities. He measures success not just by project completion but 
+through the small victories and collaborative achievements along the way. An 
+enduring piece of advice that guides him is the importance of listening—truly 
+listening—to others, as it provides invaluable perspectives and insights.
