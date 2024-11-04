@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to Architect's Palette!"
 author: "Laszlo Andrasi"
-categories: documentation
-tags: [documentation,sample]
+categories: Posts
+tags: [documentation,first]
 image: Welcome.jpg
 ---
 
