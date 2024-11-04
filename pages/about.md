@@ -5,7 +5,7 @@ permalink: /about
 
 ---
 
-![My Image](https://github.com/Laz-AP/thoughts/blob/gh-pages/assets/img/About_Author_WC.jpg)
+![My Image](https://github.com/Laz-AP/thoughts/blob/d8d020007597f136daa4d72ae940023f34614d7f/assets/img/About_Author_WC.jpg)
 
 Hello! I’m Laszlo Andrasi aka Laz—Architect, Artist, and Tech Enthusiast. I work as the 
 Design Application Manager for the Chicago studio of [Perkins&Will](https://perkinswill.com/), 
