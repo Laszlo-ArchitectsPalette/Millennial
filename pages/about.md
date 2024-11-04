@@ -5,7 +5,7 @@ permalink: /about
 
 ---
 
-(https://github.com/Laz-AP/thoughts/blob/gh-pages/assets/img/About_Author_WC.jpg)
+![My Image](https://github.com/Laz-AP/thoughts/blob/gh-pages/assets/img/About_Author_WC.jpg)
 
 Laszlo serves as the Design Application Manager for the Chicago studio of [Perkins&Will](https://perkinswill.com/), 
 where he oversees all digital-related initiatives. His role involves collaborating 
