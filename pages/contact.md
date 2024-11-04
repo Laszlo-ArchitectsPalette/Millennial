@@ -4,4 +4,11 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+# Thank you for exploring my website! 
+
+Please feel free to reach out via text or email, or connect with me on 
+social media.
+
+email:  andrasi.design@gmail.com
+instagram: https://www.instagram.com/architectpalette/
+linkedin:  https://www.linkedin.com/in/laszlo-andrasi-architecture/
