@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+author: "Laszlo Andrasi"
+categories: posts
+tags: [posts]
 image: arctic-1.jpg
 ---
 
