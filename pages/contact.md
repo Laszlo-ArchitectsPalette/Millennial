@@ -11,6 +11,6 @@ permalink: /contact
 Please feel free to reach out via text or email, or connect with me on 
 social media.
 
-* email:  andrasi.design@gmail.com
-* instagram: https://www.instagram.com/architectpalette/
-* linkedin:  https://www.linkedin.com/in/laszlo-andrasi-architecture/
+* email:  [andrasi.design@gmail.com](mailto:andrasi.design@gmail.com)
+* instagram: [ArchitectPalette](https://www.instagram.com/architectpalette/)
+* linkedin:  [Laszlo Andrasi Architecture](https://www.linkedin.com/in/laszlo-andrasi-architecture/)
