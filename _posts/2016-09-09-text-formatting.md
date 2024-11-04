@@ -2,7 +2,7 @@
 layout: post
 title: "Text Formatting"
 author: "Laszlo Andrasi"
-categories: posts
+categories: Posts
 tags: [posts]
 image: arctic-1.jpg
 ---
