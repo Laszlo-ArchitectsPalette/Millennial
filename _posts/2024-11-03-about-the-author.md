@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Laszlo Andrasi"
-categories: facts
+categories: Posts
 tags: [sample]
 image: About_Author_WC.jpg
 ---
