@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Laszlo Andrasi"
 categories: facts
 tags: [sample]
-image: Laz-VR.jpg
+image: About_Author_WC.jpg
 ---
 
 Hello! I’m Laszlo Andrasi aka Laz—Architect, Artist, and Tech Enthusiast. Working in Chicago’s fast-paced architecture scene by day, bringing homes to life with watercolor and sketch by night.
