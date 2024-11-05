@@ -25,6 +25,7 @@ Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Camer
 
 ## Instructor
 **Seyedomid Sajedi**, Senior AI & ML Engineer at CORE studio
+
 [![LinkedIn Profile Image](https://laz-ap.github.io/thoughts/assets/img/Omid+Sajedi.jpg)](https://www.linkedin.com/in/seyedomid-sajedi-263b703a/)
 
 **Overview:**  
@@ -44,9 +45,7 @@ The **CORE studio's Transforming Text: Practical NLP for the AEC Industry** work
 
 ## Level and Requirements
 Geared towards beginner to intermediate users, participants will complete exercises on Jupyter Notebooks via Google Colab. Requirements include:
-   - **Laptop with Internet Connection**
-   - **Google Account**: Required to access Google Colab.
-   - **Paid API Access**: Minimal costs may apply for the final exercise.
+
 
 
 
@@ -55,12 +54,17 @@ Geared towards beginner to intermediate users, participants will complete exerci
 
 # Symposium
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
 asdsad
-<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg">
+
 
 # Hackathon
 
+<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Splash_Hackathon.jpg">
+[![Splash Logo](https://laz-ap.github.io/thoughts/assets/img/Splash!.png)](https://github.com/team-speckle-automation)
 Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
 
 # Closing Thoughts
