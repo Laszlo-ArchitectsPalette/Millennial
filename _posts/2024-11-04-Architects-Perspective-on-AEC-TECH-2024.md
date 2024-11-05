@@ -28,4 +28,4 @@ Hackathons provide a unique opportunity to join a team of complete strangers and
 
 ## Closing Thoughts
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC_Symposium.jpg">
+<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg">
