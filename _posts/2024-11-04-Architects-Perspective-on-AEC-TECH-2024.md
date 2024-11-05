@@ -4,7 +4,7 @@ title: "Architect's Perspective on AEC TECH 2024"
 author: "Laszlo Andrasi"
 categories: Posts
 tags: [posts]
-image: AEC Tech - Event Image.png
+image: AEC-Tech-2024.jpg
 ---
 
 # AEC TECH 2024
@@ -15,7 +15,9 @@ The week long event is composed of both virtual and in-person workshops, tech cr
 
 Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Cameron with Digital Practice for the opportunity to attend AEC Tech this year. I learned a lot and am looking forward to bringing back some of the innovative tools and energy back to Perkins&Will.
 
-## Workshops
+<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png>
+
+# Workshops
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
 
@@ -50,16 +52,17 @@ Geared towards beginner to intermediate users, participants will complete exerci
 
 
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
-## Symposium
 
+# Symposium
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium">
 asdsad
+<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg">
 
-
-## Hackathon
+# Hackathon
 
 Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
 
-## Closing Thoughts
+# Closing Thoughts
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg">
