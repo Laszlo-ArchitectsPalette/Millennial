@@ -4,14 +4,14 @@ title: "Architect's Perspective on AEC TECH 2024"
 author: "Laszlo Andrasi"
 categories: Posts
 tags: [posts]
-image: AEC-Tech-2024.jpg
+image: AEC Tech - Event Image.png
 ---
 
 # AEC TECH 2024
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png">
 
 
+## 
 
 ## Workshops
 
