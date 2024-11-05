@@ -15,7 +15,7 @@ The week long event is composed of both virtual and in-person workshops, tech cr
 
 Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Cameron with Digital Practice for the opportunity to attend AEC Tech this year. I learned a lot and am looking forward to bringing back some of the innovative tools and energy back to Perkins&Will.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png>
+<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png">
 
 # Workshops
 
