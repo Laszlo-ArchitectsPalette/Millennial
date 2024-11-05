@@ -15,13 +15,11 @@ The week long event is composed of both virtual and in-person workshops, tech cr
 
 Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Cameron and the entire Digital Practice team for the opportunity to attend AEC Tech this year. I learned a lot and am looking forward to bringing back some of the innovative tools and energy back to Perkins&Will.
 
-[![AEC Tech website](https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png)](https://www.aectech.us/)
+[<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png" style="width:100%; max-width:1024px; height:auto;">>](https://www.aectech.us/)
 
 # Workshops
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png" style="width: 1024px; height: auto;" alt="In Person Workshop">
-
-
+<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png" style="width:100%; max-width:1024px; height:auto;">
 
 I started off the AEC Tech experience with an all day workshop with CORE Studio called, Transforming Text: Practical NLP for the AEC Industry. Funny enough was the fact that half of the Perkins&Will attendees, 7 total, also had the same idea. 
 
@@ -34,18 +32,18 @@ The workshop started with setting up a Python environment on either a local mach
 
 ### Confusion Matrix from first excercise 
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Confusion Matrix.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Confusion Matrix.png" style="width:100%; max-width:1024px; height:auto;">
 
 In the Deep Learning and Transformers section, we explored advanced NLP concepts, beginning with the fundamentals like tokenization and text embeddings. We also learned how to use unsupervised learning methods—such as topic modeling with small language models—to uncover insights from large document collections. One highlight was building an AI-powered semantic search tool using Retrieval Augmented Generation (RAG), and we even experimented with NLP agents to boost the reasoning abilities of language models. The workshop was beginner-friendly but required some basics, like a laptop, internet connection, and Google account for exercises on Jupyter Notebooks via Google Colab. For the final exercise, we needed minimal paid API access. 
 
 ### [Multi-Agent](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/multi-agent-workflow.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/multi-agent-workflow.png" style="width:100%; max-width:1024px; height:auto;">
 
 
 # Symposium
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png" style="width:100%; max-width:1024px; height:auto;">
 
 The workshop on Thursday was all about learning information about a specific skill, Natural Language Models, an intense academic heavy day. Friday on the other hand was equally as intense but focused entirely on listening to presentations, keynote speeches and panel discussions. The Theme of this year's Symposium was reflecting on the state of practice today and what is on the horizon.
 
@@ -66,12 +64,12 @@ The day concluded with a lively roundtable titled "Grasshopper Plugin Pioneers,"
 
 # Hackathon
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/hackathon.png">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Hackathon Pano.jpg">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Splash_Hackathon.jpg">
+<img src="https://laz-ap.github.io/thoughts/assets/img/hackathon.png" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Hackathon Pano.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Splash_Hackathon.jpg" style="width:100%; max-width:1024px; height:auto;">
 [![Splash Logo](https://laz-ap.github.io/thoughts/assets/img/Splash!.png)](https://github.com/team-speckle-automation)
 Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
 
 # Closing Thoughts
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg">
+<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg" style="width:100%; max-width:1024px; height:auto;">
