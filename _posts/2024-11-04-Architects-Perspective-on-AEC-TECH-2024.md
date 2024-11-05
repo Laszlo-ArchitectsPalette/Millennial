@@ -19,7 +19,9 @@ Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Camer
 
 # Workshops
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png" style="width: 1024px; height: auto;" alt="In Person Workshop">
+
+
 
 I started off the AEC Tech experience with an all day workshop with CORE Studio called, Transforming Text: Practical NLP for the AEC Industry. Funny enough was the fact that half of the Perkins&Will attendees, 7 total, also had the same idea. 
 
