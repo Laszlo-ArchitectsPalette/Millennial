@@ -67,17 +67,25 @@ After a lunch break, the afternoon resumed with presentations from [**Alexandra 
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/Panel 4.jpg" style="width:100%; max-width:1024px; height:auto;">
 
-The day concluded with a lively roundtable titled "Grasshopper Plugin Pioneers," moderated by Brian Gillespie. This session featured industry leaders like Mostapha Sadeghipour Roudsari, Nathan Miller, Andrew Heumann, and David Mans, who shared the development journeys and applications of their popular Grasshopper plugins. They highlighted how these tools empower designers with sophisticated workflows for geometry, data, and automation. Finally, the event wrapped up with closing statements from Robert Otani, CTO of Thornton Tomasetti, emphasizing the future potential of technology in transforming architectural and engineering practices.
-
+The day concluded with a lively roundtable titled "Grasshopper Plugin Pioneers," moderated by **Brian Gillespie** Product Manager @ [**Robert McNeel and Associates**](https://www.rhino3d.com/). This session featured industry leaders like [**Mostapha Sadeghipour Roudsari**](https://www.linkedin.com/in/mostapha-roudsari/) / Co-Founder of [**Ladybug Tools**](https://www.ladybug.tools/), [**Nathan Miller**](https://www.linkedin.com/in/nmillerarch/) / CEO @ [**Proving Ground**](https://provingground.io/), **David Mans** / VP Applications Developer @ [**TT CORE Studio**](https://www.thorntontomasetti.com/core-studio), and [**Andrew Heumann**](https://www.linkedin.com/in/andrew-heumann-13751414/) / Software Developer @ [**Hypar**](https://hypar.io/) who shared the development journeys and applications of their popular Grasshopper plugins. They highlighted how these tools empower designers with sophisticated workflows for geometry, data, and automation. Finally, the event wrapped up with closing statements from Robert Otani, CTO of Thornton Tomasetti, emphasizing the future potential of technology in transforming architectural and engineering practices. [**Robert Otani**](https://www.linkedin.com/in/robert-otani-pe/) / CTO @ [**TT CORE Studio**](https://www.thorntontomasetti.com/core-studio) provided the closing statement for Friday's Symposium, speaking to the exciting developments in the AEC showcased that day. Overall I was left with the impression that our industry is on the edge of a coming explosion in accessible tools for interoperability, innovation, and automation.
 
 # Hackathon
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/hackathon.png" style="width:100%; max-width:1024px; height:auto;">
+
+I will most likely end up posting a dedicated blog post on the details of my proposed hack, Splash, and will instead speak about the unique experience around the Hackathon itself. Kicking off Saturday's Hackathon with a short presentation at 9:30am, the Hackathon was scheduled for a 26 hour sprint, with all submissions due by 11am the following day. A unique part of Hackathon's are the Lightning Rounds pitches at the beginning of event where anyone can stand in front of the attendees and pitch an idea for a hack. Perkins&Will had a strong contigent of 15 hackers for the event, and 4 of us decided to brave the Lightning Round and pitch our own ideas. [**Anish Reddy**](https://www.linkedin.com/in/anish-reddy-28167b16/) pitched an idea on *AI copilot for grasshopper* and *Quantify added value to projects based on localized data*, I pitched an idea on *automating analysis using Speckle Automate and Rhino.Compute*, [**Anthony Samaha**](https://www.linkedin.com/in/anthony-samaha/) pitched *Image Markers as an alternative to QR codes fees,* [**Kart Gopinath**](https://www.linkedin.com/in/kartt-gopinath/) pitching developing tools for *optimizing Revit warnings mitigation*, lastly **Luke Gehron** pitched *D-AI-LOG, using AI Prompts to create geometry*. We all ended up working with full teams consisting of total strangers. 
+
 <img src="https://laz-ap.github.io/thoughts/assets/img/Hackathon Pano.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Splash_Hackathon.jpg" style="width:100%; max-width:1024px; height:auto;">
-[![Splash Logo](https://laz-ap.github.io/thoughts/assets/img/Splash!.png)](https://github.com/team-speckle-automation)
+
 Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
 
+### Click on the Splash Logo for the GitHub!
+[<img src="https://laz-ap.github.io/thoughts/assets/img/Splash!.png" style="width:100%; max-width:1024px; height:auto;">](https://github.com/team-speckle-automation)
+
 # Closing Thoughts
+
+In closing, AEC Tech 2024 was a truly inspiring and transformative experience. The depth of knowledge, innovative ideas, and cutting-edge technologies showcased throughout the event highlighted the exciting trajectory of our industry. From the workshops and symposium to the hackathon, each segment offered fresh insights into how digital tools are reshaping architecture, engineering, and construction. The event underscored a crucial shift toward collaboration and interdisciplinary learning—paving the way for greater integration of technology and automation in AEC.
+
+A big thank you to Thornton Tomasetti CORE Studio and the dedicated professionals who made this event possible. I leave AEC Tech 2024 energized and full of ideas, eager to bring these new tools, workflows, and perspectives back to Perkins&Will. Here’s to a future where technology continues to empower designers, enhance efficiency, and unlock new possibilities in our field.
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC Symposium.jpg" style="width:100%; max-width:1024px; height:auto;">
