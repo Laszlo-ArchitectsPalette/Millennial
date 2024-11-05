@@ -13,7 +13,7 @@ I was fortunate to attend my first AEC Tech Symposium this year. The AEC Tech Sy
 
 The week long event is composed of both virtual and in-person workshops, tech crawls and tours, a symposium, and ending on a 26 hour hackathon over the weekend. The event is designed to encourage knowledge exchange, showcase emerging tools and workflows, and foster collaboration among industry experts and technology enthusiasts. Each year’s symposium has a different theme that highlights current trends and challenges, offering both practical and theoretical insights on the evolving role of technology in AEC.
 
-Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Cameron with Digital Practice for the opportunity to attend AEC Tech this year. I learned a lot and am looking forward to bringing back some of the innovative tools and energy back to Perkins&Will.
+Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Cameron and the entire Digital Practice team for the opportunity to attend AEC Tech this year. I learned a lot and am looking forward to bringing back some of the innovative tools and energy back to Perkins&Will.
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png">
 
