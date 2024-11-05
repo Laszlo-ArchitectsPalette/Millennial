@@ -60,9 +60,8 @@ asdsad
 
 # Hackathon
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
-
+<img src="https://laz-ap.github.io/thoughts/assets/img/hackathon.png">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Hackathon Pano.jpg">
 <img src="https://laz-ap.github.io/thoughts/assets/img/Splash_Hackathon.jpg">
 [![Splash Logo](https://laz-ap.github.io/thoughts/assets/img/Splash!.png)](https://github.com/team-speckle-automation)
 Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
