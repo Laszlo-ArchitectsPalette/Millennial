@@ -3,7 +3,12 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-
+<style>
+  .image-limited {
+    width: 1024px;  /* Set the width you want */
+    height: auto;  /* Maintain aspect ratio */
+  }
+</style>
 <img src="https://laz-ap.github.io/thoughts/assets/img/Welcome.jpg">
 
 # Thank you for exploring my website! 
