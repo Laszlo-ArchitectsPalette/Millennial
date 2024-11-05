@@ -7,9 +7,11 @@ tags: [posts]
 image: AEC-Tech-2024.jpg
 ---
 
-# Intro to AEC TECH
+# AEC TECH 2024
 
-addasd
+<img src="https://laz-ap.github.io/thoughts/assets/img/AEC Tech - Event Image.png">
+
+
 
 ## Workshops
 
@@ -22,6 +24,8 @@ asdsad
 
 ## Hackathon
 
-aa
+Hackathons provide a unique opportunity to join a team of complete strangers and dive into a problem. This being my first hackathon experience, I was impressed with how quickly teams reached a flow state and solved complex problems. I look forward to applying this learning experience in future collaborative efforts.
 
+## Closing Thoughts
 
+<img src="https://laz-ap.github.io/thoughts/assets/img/PW_AEC_Symposium.jpg">
