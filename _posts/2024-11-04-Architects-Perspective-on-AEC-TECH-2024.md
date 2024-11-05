@@ -18,7 +18,35 @@ Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Camer
 ## Workshops
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
+
+## CORE Studio | Transforming Text: Practical NLP for the AEC Industry
+
+## Instructor
+**Seyedomid Sajedi**, Senior AI & ML Engineer at CORE studio
 [![LinkedIn Profile Image](https://laz-ap.github.io/thoughts/assets/img/Omid+Sajedi.jpg)](https://www.linkedin.com/in/seyedomid-sajedi-263b703a/)
+
+**Overview:**  
+The **CORE studio's Transforming Text: Practical NLP for the AEC Industry** workshop is a hands-on, half-day session designed for AEC professionals looking to streamline document review processes using natural language processing (NLP) tools. Given the time-intensive nature of document analysis in AEC, this workshop introduces practical NLP techniques to improve productivity and automate text-heavy tasks.
+
+## Workshop Structure:
+
+### 1. Classical ML and NLP Techniques
+   - **Setup and Essentials**: Attendees will start by setting up a Python environment, learning to use a local machine or Google Colab to perform NLP tasks.
+   - **Techniques and Methods**: This section covers simple machine learning and non-ML methods to automate document processing.
+
+### 2. Deep Learning and Transformers
+   - **Fundamentals**: A deep dive into core NLP concepts such as tokenization and text embeddings.
+   - **Unsupervised Learning**: Focuses on topic modeling with small language models to gain insights from large document sets.
+   - **Semantic Search**: Attendees will learn to build a small AI-powered search module using Retrieval Augmented Generation (RAG).
+   - **Agents**: This segment enhances the reasoning capabilities of language models and covers tool use instructions for NLP agents.
+
+## Level and Requirements
+Geared towards beginner to intermediate users, participants will complete exercises on Jupyter Notebooks via Google Colab. Requirements include:
+   - **Laptop with Internet Connection**
+   - **Google Account**: Required to access Google Colab.
+   - **Paid API Access**: Minimal costs may apply for the final exercise.
+
+
 
 
 
