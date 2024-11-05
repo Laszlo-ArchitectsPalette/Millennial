@@ -36,7 +36,7 @@ The workshop started with setting up a Python environment on either a local mach
 
 In the Deep Learning and Transformers section, we explored advanced NLP concepts, beginning with the fundamentals like tokenization and text embeddings. We also learned how to use unsupervised learning methods—such as topic modeling with small language models—to uncover insights from large document collections. One highlight was building an AI-powered semantic search tool using Retrieval Augmented Generation (RAG), and we even experimented with NLP agents to boost the reasoning abilities of language models. The workshop was beginner-friendly but required some basics, like a laptop, internet connection, and Google account for exercises on Jupyter Notebooks via Google Colab. For the final exercise, we needed minimal paid API access. 
 
-[**Multi-Agent**](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
+### [Multi-Agent](https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat/)
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/multi-agent-workflow.png">
 
