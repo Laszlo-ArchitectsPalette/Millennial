@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-<img src="https://laz-ap.github.io/thoughts/assets/img/Welcome.jpg" style="width: 1024px; height: auto;" alt="AP Logo">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Welcome.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 # Thank you for exploring my website! 
 
