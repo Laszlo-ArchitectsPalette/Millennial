@@ -18,7 +18,7 @@ Thank you again to the Bill Berger and the Chicago Studio, as well as Nick Camer
 ## Workshops
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
-[<img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">](https://www.linkedin.com/in/seyedomid-sajedi-263b703a/)
+![My Image](https://laz-ap.github.io/thoughts/assets/img/Omid+Sajedi.jpg)(https://www.linkedin.com/in/seyedomid-sajedi-263b703a/)
 
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/In person workshop.png">
