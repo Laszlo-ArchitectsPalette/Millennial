@@ -44,7 +44,20 @@ In the Deep Learning and Transformers section, we explored advanced NLP concepts
 # Symposium
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/Symposium.png">
-asdsad
+
+The workshop on Thursday was all about learning information about a specific skill, Natural Language Models, an intense academic heavy day. Friday on the other hand was equally as intense but focused entirely on listening to presentations, keynote speeches and panel discussions. The Theme of this year's Symposium was reflecting on the state of practice today and what is on the horizon.
+
+Beginning at 9:00 am, the event commenced with a welcome and introductory remarks, setting the stage for a packed agenda. Shortly afterward, presentations began with [Nicholas Desbiens](https://www.linkedin.com/in/nicholasdesbiens/) and [Amir Ashtiani](https://www.linkedin.com/in/amir-ashtiani-7b705b33/) from [Pininfarina](https://pininfarina.it/), who shared their insights into innovation in design and computational techniques. Nicholas discussed how Pininfarina integrates technology into various design fields, while Amir focused on how AI-driven visualization is reshaping architectural practice, challenging traditional methods, and exploring new possibilities.
+
+The morning continued with a presentation by [Justin Hattendorf](https://www.linkedin.com/in/jhattendorf/) from [nTop](https://www.ntop.com/), who introduced us to their computational design platform aimed at high-performance engineering. Justin emphasized the importance of user-friendly interfaces for complex workflows, drawing on his background in 3D modeling and industrial design. This presentation inspired my later hackathon idea of having real time analysis be integrated while modeling, giving designers real time data on their projects.
+
+Following Justin, [Michael Szivos](https://www.linkedin.com/in/michael-szivos-bbb39322/) from [SOFTlab](https://soft-lab.com/) showcased his studio's unique approach, which merges technology, craft, and material experimentation to blur the lines between architecture, art, and interactive design. Showing how the studio has evolved to incorporate technology with beautiful public works such as [Ventricle](https://soft-lab.com/project/ventricle/) and the [nautilus](https://soft-lab.com/project/nautilus/). 
+
+The keynote address by [Shajay Bhooshan](https://www.linkedin.com/in/shajaybhooshan/) from [Zaha Hadid Architects](https://www.zaha-hadid.com/) was a capped off the morning, where Shajay detailed how ZHA’s CODE group applies computational design to create advanced architectural forms, particularly shell structures. A large part of the keynote presentation was showing how architectural knowledge provide unique opportunities in the VR and gaming space. Their studio has been working with Epic Games and the Fortnite team to make interactive and educational architecture spaces. They define a kit of parts the gamers use to impact the urban fabric of existing cities.
+
+After a lunch break, the afternoon resumed with presentations from Alexandra Pollock of CORE Studio and Petr Mitev from Chaos. Alexandra shared her extensive experience in AEC technologies, describing CORE Studio’s initiatives in both super-tall towers and digital innovation, while Petr discussed his work in leveraging software to improve design and delivery processes. Both talks provided compelling perspectives on how technology is enhancing efficiency and creativity in the AEC industry.
+
+The day concluded with a lively roundtable titled "Grasshopper Plugin Pioneers," moderated by Brian Gillespie. This session featured industry leaders like Mostapha Sadeghipour Roudsari, Nathan Miller, Andrew Heumann, and David Mans, who shared the development journeys and applications of their popular Grasshopper plugins. They highlighted how these tools empower designers with sophisticated workflows for geometry, data, and automation. Finally, the event wrapped up with closing statements from Robert Otani, CTO of Thornton Tomasetti, emphasizing the future potential of technology in transforming architectural and engineering practices.
 
 
 # Hackathon
