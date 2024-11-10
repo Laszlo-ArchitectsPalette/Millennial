@@ -7,7 +7,7 @@ tags: [posts]
 image: Chicago_Build_Panel.jfif
 ---
 
-I had the honor of speaking on the Chicago Build panel again this year on the typic of **Unlocking Efficiency with The Latest Digital Tools.** I spoke alongside industry experts to discuss how we can harness the latest digital tools to unlock efficiency, collaboration, and smarter outcomes. It was a compelling discussion where each of us brought unique perspectives on the challenges and opportunities facing design, construction, and engineering.
+I had the honor of speaking on the Chicago Build panel again this year on the topic of **Unlocking Efficiency with The Latest Digital Tools.** I spoke alongside industry experts to discuss how we can harness the latest digital tools to unlock efficiency, collaboration, and smarter outcomes. It was a compelling discussion where each of us brought unique perspectives on the challenges and opportunities facing design, construction, and engineering.
 
 ## Embracing the Digital Shift and Gaining Buy-In
 
@@ -23,7 +23,7 @@ I had the honor of speaking on the Chicago Build panel again this year on the ty
 
 ## Trends in Interoperability Between Design, Construction, and Manufacturing
 
-In the Perkins&Will segment, I emphasized the **importance of interoperability between design, construction, and manufacturing**, an area where Perkins&Will has been focused on advancing our capabilities. We’re seeing a rise in tools that allow for seamless data exchange between platforms, breaking down silos across stages of the project lifecycle. The latest developments in open standards and software compatibility make it easier to share information across platforms, from design to manufacturing and construction. This fluidity is critical for reducing rework and delays, allowing each phase to build more effectively on the previous one.
+In the [**Perkins&Will**](https://perkinswill.com/) segment, I emphasized the **importance of interoperability between design, construction, and manufacturing**, an area where Perkins&Will has been focused on advancing our capabilities. We’re seeing a rise in tools that allow for seamless data exchange between platforms, breaking down silos across stages of the project lifecycle. The latest developments in open standards and software compatibility make it easier to share information across platforms, from design to manufacturing and construction. This fluidity is critical for reducing rework and delays, allowing each phase to build more effectively on the previous one.
 
 ## The Impact of Cloud-Based Deliverables on Client Outcomes
 
