@@ -4,7 +4,7 @@ title: "Unlocking Efficiency with The Latest Digital Tools"
 author: "Laszlo Andrasi"
 categories: Posts
 tags: [posts]
-image: AEC-Tech-2024.jpg
+image: Chicago_Build_Panel.jfif
 ---
 
 # Unlocking Efficiency with the Latest Digital Tools
@@ -48,6 +48,7 @@ Saravana closed with an essential point on **gauging the ROI of new technologies
 ## Embracing Innovation for Sustainable Growth
 
 Eric wrapped up our discussion by urging us to **embrace innovation as an ongoing journey** rather than a destination. It’s not just about adopting the latest technologies, but about fostering a culture where curiosity and learning drive continuous improvement. Innovation requires adaptability and the willingness to take calculated risks. As we continue to leverage digital tools, we have to remain focused on sustainable growth that benefits our teams, clients, and industry as a whole.
+
 
 ---
 
