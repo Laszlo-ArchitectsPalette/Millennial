@@ -20,7 +20,7 @@ My design philosophy is founded on the belief that architecture shapes
 the backdrop of daily life, with the power to enhance experiences and 
 uplift communities. Success is measured not just by project completion but 
 through the small victories and collaborative achievements along the way. An 
-enduring piece of advice that guides him is the importance of listening—truly 
+enduring piece of advice that guides me is the importance of listening—truly 
 listening—to others, as it provides invaluable perspectives and insights.
 
 
