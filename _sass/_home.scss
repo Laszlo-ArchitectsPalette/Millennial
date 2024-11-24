@@ -13,15 +13,30 @@ body {
   padding: 0;
 }
 
+// Top Banner/Header Fix
+header {
+  position: relative; // Ensure the banner doesn't overlap with the content
+  z-index: 1; // Keep it above other elements if necessary
+  background-color: $primary-color;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+// Fix the spacing issue below the banner
+main {
+  margin-top: 100px; // Adjust this based on the actual height of the banner
+}
+
 // Grid layout
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   padding: 20px;
-  list-style: none;
 }
 
+// Individual post styling
 .post-item {
   background-color: white;
   border: 1px solid $secondary-color;
@@ -32,77 +47,6 @@ body {
   &:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
-  }
-}
-
-// Featured post styles
-.featured-post {
-  height: 100%; // Adjust for grid control
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  border-radius: 8px;
-
-  h2 {
-    position: absolute;
-    bottom: 0;
-    margin: 0;
-    padding: 10px;
-    width: 100%;
-    color: white;
-    background: rgba(0, 0, 0, 0.7);
-    font: bold 24px/45px Helvetica, Sans-Serif;
-    letter-spacing: -1px;
-    box-sizing: border-box;
-
-    span {
-      display: inline-block;
-    }
-  }
-
-  span a {
-    color: white;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}
-
-// Pagination styles
-.pagination {
-  margin: 20px 0;
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-
-  a, span {
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    padding: 10px 20px;
-    border: 1px solid $secondary-color;
-    border-radius: 4px;
-    background-color: white;
-    color: $text-color;
-    transition: background-color 0.2s ease, color 0.2s ease;
-
-    &.pagination-active {
-      background-color: $primary-color;
-      color: white;
-
-      &:hover {
-        background-color: darken($primary-color, 10%);
-      }
-    }
-
-    &:not(.pagination-active) {
-      background-color: $secondary-color;
-      color: $light-gray;
-      cursor: not-allowed;
-    }
   }
 }
 
@@ -118,3 +62,4 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
