@@ -4,7 +4,7 @@ title: "Micro Automating Simulation in Architecture with Splash"
 author: "Laszlo Andrasi"
 categories: Posts
 tags: [posts]
-image: Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 001.jpg
+image: Micro-Automation-in-Design/Splash! (2).png
 ---
 
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
@@ -43,9 +43,10 @@ With this innovative setup now operational, the team is eager to apply it to mor
 
 [<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">](https://www.aectech.us/)
 
-<video controls>
-  <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4" style="width:100%; max-width:1024px; height:auto;">
+<video controls style="width: 100%; max-width: 1024px; height: auto;">
+  <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 <iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
