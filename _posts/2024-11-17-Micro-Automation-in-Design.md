@@ -41,8 +41,10 @@ The automation workflow allows designers to share project data with clients and 
 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
 
+[<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">](https://www.aectech.us/)
+
 <video controls>
-  <source src="Analysis Live Demo.mp4" type="video/mp4">
+  <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
