@@ -40,3 +40,5 @@ The project came to life thanks to a team of diverse professionals, including ar
 The automation workflow allows designers to share project data with clients and project managers seamlessly, even if they don’t have design software installed. The flexibility of Speckle to leverage BIM information beyond specific applications like Revit and Rhino opens the door to further project applications, setting a new standard for design communication.
 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
+
+<iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
