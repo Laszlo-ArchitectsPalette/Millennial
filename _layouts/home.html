@@ -3,16 +3,11 @@ layout: default
 title: Home
 ---
 
-<!-- Grid Container -->
-<div class="posts-grid">
-  {% for post in paginator.posts %}
-    <div class="post-item">
-      {% include featured-post.html %}
-    </div>
-  {% endfor %}
-</div>
+{% for post in paginator.posts %}
+  {% include featured-post.html %}
+{% endfor %}
 
-<!-- Pagination Links -->
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
