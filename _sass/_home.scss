@@ -1,56 +1,120 @@
+// Variables
+$primary-color: #007bff;
+$secondary-color: #e0e0e0;
+$text-color: #333;
+$light-gray: #f9f9f9;
+
+// General styles
+body {
+  font-family: Helvetica, Sans-Serif;
+  background-color: $light-gray;
+  color: $text-color;
+  margin: 0;
+  padding: 0;
+}
+
+// Grid layout
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  list-style: none;
+}
+
+.post-item {
+  background-color: white;
+  border: 1px solid $secondary-color;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// Featured post styles
 .featured-post {
-  height: 400px;
-  margin: 5px 10px 10px;
+  height: 100%; // Adjust for grid control
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-}
-.featured-post h2 {
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
-  position: absolute;
-}
-.featured-post h2 span {
-  display: inline-block;
-  color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
-  letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
-  padding: 10px;
-}
-.featured-post span a {
-  color: white;
-}
-.featured-post h1 {
-  margin: 10px;
+  border-radius: 8px;
+
+  h2 {
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    box-sizing: border-box;
+
+    span {
+      display: inline-block;
+    }
+  }
+
+  span a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
-/*
-  Pagination
-*/
-
+// Pagination styles
 .pagination {
-  text-align: center;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+  a, span {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid $secondary-color;
+    border-radius: 4px;
+    background-color: white;
+    color: $text-color;
+    transition: background-color 0.2s ease, color 0.2s ease;
+
+    &.pagination-active {
+      background-color: $primary-color;
+      color: white;
+
+      &:hover {
+        background-color: darken($primary-color, 10%);
+      }
+    }
+
+    &:not(.pagination-active) {
+      background-color: $secondary-color;
+      color: $light-gray;
+      cursor: not-allowed;
+    }
+  }
 }
-.pagination a {
-  text-decoration: none;
+
+// Responsive Design
+@media (max-width: 768px) {
+  .posts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
-.pagination-button {
-  color: #999;
-  border: 1px solid #e0e0e0;
-  padding: 15px 45px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  display: inline-block;
-  font-size: 16px;
-  font-weight: bold;
-}
-.pagination-active {
-  color: black;
-}
-.pagination-active:hover {
-  background-color: #e0e0e0;
+
+@media (max-width: 480px) {
+  .posts-grid {
+    grid-template-columns: 1fr;
+  }
 }
