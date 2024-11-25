@@ -4,7 +4,7 @@ title: "Micro Automating Simulation in Architecture with Splash"
 author: "Laszlo Andrasi"
 categories: Posts
 tags: [posts]
-image: Micro-Automation-in-Design/Splash! (2).png
+image: Splash! (2).png
 ---
 
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
