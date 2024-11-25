@@ -41,7 +41,19 @@ The automation workflow allows designers to share project data with clients and 
 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
 
-[<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">](https://www.aectech.us/)
+[<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">](https://github.com/Laz-AP/SPLASH)
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 005.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 006.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 007.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 008.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 009.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 010.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 012.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 013.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 <video controls style="width: 100%; max-width: 1024px; height: auto;">
   <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4">
