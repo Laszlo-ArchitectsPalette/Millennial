@@ -9,21 +9,25 @@ image: Micro-Automation-in-Design/Splash!.jpg
 
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
+This article will summarize the Splash workflow. The intention is to automate micro tasks and simulations for designers and engineers in the earliest phase of design, maximizing collaboration and positive outcomes. The **Splash** workflow was first developed during the [**AEC Tech 2024**](https://laz-ap.github.io/thoughts/Architects-Perspective-on-AEC-TECH-2024) Hackathon, and is now being leveraged on real projects! 
 
 In recent developments at the intersection of computational design and automation, engineers and architects have collaborated to address key inefficiencies in early phase design workflows. The goal was to tackle redundancies and improve collaboration, aiming to overcome the traditional, static approaches that limit effective feedback.
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+
+Tackling the traditional methods of collaboration has never been so easy. Most design teams are using data rich approaches yet flattening the results into 2D deliverables. By reframing the collaborative process and leveraging the data we already have in our models, we can enhance outcomes and produce better work, faster.
 
 ## Streamlining the Design Process
 
 The core idea was to remove redundant, static collaboration and integrate analysis processes early on. Typically, engineers and architects meet with separate analysis reports, resulting in static drawings that each team member must explain and interpret independently. This fragmented approach slows the design process and impedes fluid communication.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 By utilizing **Speckle Automate** and various integrated tools, the team aimed to break these isolated feedback loops and speed up updates. With this approach, they could capture design changes in real time and instantly reflect them across analyses. This strategy significantly reduces hidden analysis work and redundant meetings, allowing for faster adjustments and improved understanding among team members.
 
 ## Tackling Computational Bottlenecks
 
-One particular bottleneck in computational design was the manual setup required to run analysis scripts for every design iteration. For example, Mario, the team’s computational designer, was tasked with importing models, connecting them to Grasshopper scripts, and running complex analysis workflows. By automating routine tasks, Mario’s role could shift toward higher-level design challenges, enhancing his productivity and democratizing access to these automated analyses for the entire team.
+One particular bottleneck in computational design was the manual setup required to run analysis scripts for every design iteration. For example, the team’s computational designer was tasked with importing models, connecting them to Grasshopper scripts, and running complex analysis workflows. By automating routine tasks, the computationdal design role could shift toward higher-level design challenges, enhancing productivity and democratizing access to these automated analyses for the entire team.
 
 ## Real-Time Analysis Demonstration
 
