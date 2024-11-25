@@ -13,11 +13,13 @@ This article will summarize the Splash workflow. The intention is to automate mi
 
 In recent developments at the intersection of computational design and automation, engineers and architects have collaborated to address key inefficiencies in early phase design workflows. The goal was to tackle redundancies and improve collaboration, aiming to overcome the traditional, static approaches that limit effective feedback.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+<iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
+
+## Streamlining the Design Process
 
 Tackling the traditional methods of collaboration has never been so easy. Most design teams are using data rich approaches yet flattening the results into 2D deliverables. By reframing the collaborative process and leveraging the data we already have in our models, we can enhance outcomes and produce better work, faster.
 
-## Streamlining the Design Process
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 The core idea was to remove redundant, static collaboration and integrate analysis processes early on. Typically, engineers and architects meet with separate analysis reports, resulting in static drawings that each team member must explain and interpret independently. This fragmented approach slows the design process and impedes fluid communication.
 
@@ -61,8 +63,6 @@ Click Image for access to the github!
 The automation workflow allows designers to share project data with clients and project managers seamlessly, even if they don’t have design software installed. The flexibility of Speckle to leverage BIM information beyond specific applications like Revit and Rhino opens the door to further project applications, setting a new standard for design communication.
 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
-
-<iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
 
 This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast, Structural Engineer](https://www.linkedin.com/in/stephen-p-b74304294/), [Nathan Terranova. Software Developer](https://www.linkedin.com/in/nathan-terranova/), [Wade Vollink, Computational Designer](https://www.linkedin.com/in/wade-vollink/), [Kent Pretorius, Structural Engineer](https://www.linkedin.com/in/kenttp/), [Erika Santos, Structural Engineer](https://www.linkedin.com/in/erikasantosr/), [Julio Sarachaga, Software Developer](https://www.linkedin.com/in/julio-sarachaga/), [Agustina Aboy, Architect](https://www.linkedin.com/in/agusaboy/), and [Anik Alam, Computational Designer](https://www.linkedin.com/in/md-shariful-alam-003125178/). 
 
