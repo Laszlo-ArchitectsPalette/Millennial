@@ -1,16 +1,23 @@
 .featured-post {
-  height: 600px;
-  margin: 5px 10px 10px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   position: relative;
+  width: 100%; /* Make it responsive to the container's width */
+  padding-top: 56.25%; /* Aspect ratio (16:9). Adjust as needed */
+  background-size: cover; /* Ensure the image covers the div */
+  background-position: center; /* Center the image within the div */
+  background-repeat: no-repeat; /* Prevent tiling */
+  border-radius: 8px; /* Optional: Rounded corners */
+  overflow: hidden; /* Optional: Ensures child elements don’t overflow */
 }
+
 .featured-post h2 {
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
   position: absolute;
+  bottom: 10px; /* Adjust position as needed */
+  left: 10px; /* Adjust position as needed */
+  margin: 0;
+  color: white;
+  background: rgba(0, 0, 0, 0.5); /* Optional: Background for text readability */
+  padding: 5px 10px;
+  border-radius: 4px; /* Optional: Rounded corners for the title background */
 }
 .featured-post h2 span {
   display: inline-block;
