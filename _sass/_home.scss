@@ -1,3 +1,14 @@
+// Variables
+$primary-color: #007bff;
+$secondary-color: #e0e0e0;
+$text-color: #333;
+$light-gray: #f9f9f9;
+// General styles
+body {
+  font-family: Helvetica, Sans-Serif;
+  background-color: $light-gray;
+  color: $text-color;
+  
 .featured-post {
   position: relative;
   width: 100%; /* Make it responsive to the container's width */
