@@ -7,16 +7,6 @@ tags: [posts]
 image: Micro-Automation-in-Design/Splash!.jpg
 ---
 
-This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast, Structural Engineer](https://www.linkedin.com/in/stephen-p-b74304294/), [Nathan Terranova. Software Developer](https://www.linkedin.com/in/nathan-terranova/), [Wade Vollink, Computational Designer](https://www.linkedin.com/in/wade-vollink/), [Kent Pretorius, Structural Engineer](https://www.linkedin.com/in/kenttp/), [Erika Santos, Structural Engineer](https://www.linkedin.com/in/erikasantosr/), [Julio Sarachaga, Software Developer](https://www.linkedin.com/in/julio-sarachaga/), [Agustina Aboy, Architect](https://www.linkedin.com/in/agusaboy/), and [Anik Alam, Computational Designer](https://www.linkedin.com/in/md-shariful-alam-003125178/). 
-
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
-
-The team was made up of individuals from around the globe, with this being the first time many of us have competed in a hackathon. 
-
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
-
-After the hackathon myself and Mario Romero have been translating applying this workflow to projects around the Chicago [Perkins&Will](https://perkinswill.com/) office. The goal of using Splash is to begin to automate the micro simulations to improve design outcomes. By making these simulations easy, almost instant, and visible to the wider project team, they can be leveraged in a wide variety of settings. These can include, team meetings, client presentations, and workshops. 
-
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
@@ -69,3 +59,13 @@ The automation workflow allows designers to share project data with clients and 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
 
 <iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
+
+This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast, Structural Engineer](https://www.linkedin.com/in/stephen-p-b74304294/), [Nathan Terranova. Software Developer](https://www.linkedin.com/in/nathan-terranova/), [Wade Vollink, Computational Designer](https://www.linkedin.com/in/wade-vollink/), [Kent Pretorius, Structural Engineer](https://www.linkedin.com/in/kenttp/), [Erika Santos, Structural Engineer](https://www.linkedin.com/in/erikasantosr/), [Julio Sarachaga, Software Developer](https://www.linkedin.com/in/julio-sarachaga/), [Agustina Aboy, Architect](https://www.linkedin.com/in/agusaboy/), and [Anik Alam, Computational Designer](https://www.linkedin.com/in/md-shariful-alam-003125178/). 
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
+
+The team was made up of individuals from around the globe, with this being the first time many of us have competed in a hackathon. 
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
+
+After the hackathon myself and Mario Romero have been translating applying this workflow to projects around the Chicago [Perkins&Will](https://perkinswill.com/) office. The goal of using Splash is to begin to automate the micro simulations to improve design outcomes. By making these simulations easy, almost instant, and visible to the wider project team, they can be leveraged in a wide variety of settings. These can include, team meetings, client presentations, and workshops. 
