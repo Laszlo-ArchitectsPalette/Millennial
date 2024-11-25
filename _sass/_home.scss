@@ -1,12 +1,10 @@
 .featured-post {
-  position: relative;
-  width: 100%; /* Make it responsive to the container's width */
-  padding-top: 56.25%; /* Aspect ratio (16:9). Adjust as needed */
+  height: 400px;
   margin: 5px 10px 10px;
-  background-size: cover; /* Ensure the image covers the div */
-  background-position: center; /* Center the image within the div */
-  background-repeat: no-repeat; /* Prevent tiling */
-  overflow: hidden; /* Optional: Ensures child elements don’t overflow */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .featured-post h2 {
