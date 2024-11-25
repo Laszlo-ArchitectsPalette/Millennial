@@ -7,6 +7,14 @@ tags: [posts]
 image: Micro-Automation-in-Design/Splash!.jpg
 ---
 
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
+
+This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast
+![image](https://github.com/user-attachments/assets/3995d487-7cf9-4ad1-9ee1-924949757005)
+](), [](), [](), [](), [](), [](), [](), [](), [](), [](). After the hackathon myself and [Mario Romero]()
+
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
+
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
 
 In recent developments at the intersection of computational design and automation, engineers and architects have collaborated to address key inefficiencies in early phase design workflows. The goal was to tackle redundancies and improve collaboration, aiming to overcome the traditional, static approaches that limit effective feedback.
@@ -41,24 +49,21 @@ The automation workflow allows designers to share project data with clients and 
 
 With this innovative setup now operational, the team is eager to apply it to more projects, enabling a more dynamic and collaborative approach to early phase design and analysis.
 
-[<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">](https://github.com/Laz-AP/SPLASH)
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
+
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 005.jpg" style="width:100%; max-width:1024px; height:auto;">
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 006.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 007.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 008.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 009.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 010.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 012.jpg" style="width:100%; max-width:1024px; height:auto;">
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 013.jpg" style="width:100%; max-width:1024px; height:auto;">
-
 <video controls style="width: 100%; max-width: 1024px; height: auto;">
   <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 008.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 010.jpg" style="width:100%; max-width:1024px; height:auto;">
+
+[<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 012.jpg" style="width:100%; max-width:1024px; height:auto;">](https://github.com/Laz-AP/SPLASH)
+
+
 
 
 <iframe title="Speckle" src="https://app.speckle.systems/projects/0a088653cb/models/3b0cd0e540@d9475a130c,5feb88aba3@c02f27e6e0,7ffc65a67a@fbb60cce88,bbde214205@1dc3d28ac2#embed=%7B%22isEnabled%22%3Atrue%7D" width="600" height="400" frameborder="0"></iframe>
