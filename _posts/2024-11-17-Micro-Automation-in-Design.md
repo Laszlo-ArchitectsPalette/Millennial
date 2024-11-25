@@ -7,19 +7,19 @@ tags: [posts]
 image: Micro-Automation-in-Design/Splash!.jpg
 ---
 
+This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast, Structural Engineer](https://www.linkedin.com/in/stephen-p-b74304294/), [Nathan Terranova. Software Developer](https://www.linkedin.com/in/nathan-terranova/), [Wade Vollink, Computational Designer](https://www.linkedin.com/in/wade-vollink/), [Kent Pretorius, Structural Engineer](https://www.linkedin.com/in/kenttp/), [Erika Santos, Structural Engineer](https://www.linkedin.com/in/erikasantosr/), [Julio Sarachaga, Software Developer](https://www.linkedin.com/in/julio-sarachaga/), [Agustina Aboy, Architect](https://www.linkedin.com/in/agusaboy/), and [Anik Alam, Computational Designer](https://www.linkedin.com/in/md-shariful-alam-003125178/). 
+
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 011.jpg" style="width:100%; max-width:1024px; height:auto;">
 
-This workflow was developed and tested at the AEC Tech 2024 Hackathon with my team mates: [Stephen Prendergast, Structural Engineer](https://www.linkedin.com/in/stephen-p-b74304294/), [Nathan Terranova. Software Developer](https://www.linkedin.com/in/nathan-terranova/), [Wade Vollink, Computational Designer](https://www.linkedin.com/in/wade-vollink/), [Kent Pretorius, Structural Engineer](https://www.linkedin.com/in/kenttp/), [Erika Santos, Structural Engineer](https://www.linkedin.com/in/erikasantosr/), [Julio Sarachaga, Software Developer](https://www.linkedin.com/in/julio-sarachaga/), [Agustina Aboy, Architect](https://www.linkedin.com/in/agusaboy/), and [Anik Alam, Computational Designer](https://www.linkedin.com/in/md-shariful-alam-003125178/). The team was made up of individuals from around the globe, with this being the first time many of us have competed in a hackathon. 
+The team was made up of individuals from around the globe, with this being the first time many of us have competed in a hackathon. 
 
 <img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 002.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 After the hackathon myself and Mario Romero have been translating applying this workflow to projects around the Chicago [Perkins&Will](https://perkinswill.com/) office. The goal of using Splash is to begin to automate the micro simulations to improve design outcomes. By making these simulations easy, almost instant, and visible to the wider project team, they can be leveraged in a wide variety of settings. These can include, team meetings, client presentations, and workshops. 
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
-
 # Enhancing Early Phase Design Collaboration with Automation in Speckle
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 004.jpg" style="width:100%; max-width:1024px; height:auto;">
 
 In recent developments at the intersection of computational design and automation, engineers and architects have collaborated to address key inefficiencies in early phase design workflows. The goal was to tackle redundancies and improve collaboration, aiming to overcome the traditional, static approaches that limit effective feedback.
 
@@ -27,24 +27,22 @@ In recent developments at the intersection of computational design and automatio
 
 The core idea was to remove redundant, static collaboration and integrate analysis processes early on. Typically, engineers and architects meet with separate analysis reports, resulting in static drawings that each team member must explain and interpret independently. This fragmented approach slows the design process and impedes fluid communication.
 
+<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 003.jpg" style="width:100%; max-width:1024px; height:auto;">
+
 By utilizing **Speckle Automate** and various integrated tools, the team aimed to break these isolated feedback loops and speed up updates. With this approach, they could capture design changes in real time and instantly reflect them across analyses. This strategy significantly reduces hidden analysis work and redundant meetings, allowing for faster adjustments and improved understanding among team members.
 
 ## Tackling Computational Bottlenecks
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 005.jpg" style="width:100%; max-width:1024px; height:auto;">
-
 One particular bottleneck in computational design was the manual setup required to run analysis scripts for every design iteration. For example, Mario, the team’s computational designer, was tasked with importing models, connecting them to Grasshopper scripts, and running complex analysis workflows. By automating routine tasks, Mario’s role could shift toward higher-level design challenges, enhancing his productivity and democratizing access to these automated analyses for the entire team.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Emerging Tech - AEC TECH 2024 Page 006.jpg" style="width:100%; max-width:1024px; height:auto;">
-
 ## Real-Time Analysis Demonstration
+
+Using the example of **Villa savoye**, a demonstration illustrated how automated updates on Speckle could instantly reflect design adjustments. For instance, if a new overhang was added over ribbon windows, the radiation analysis and structural load information updated almost immediately. 
 
 <video controls style="width: 100%; max-width: 1024px; height: auto;">
   <source src="https://laz-ap.github.io/thoughts/assets/img/Micro-Automation-in-Design/Analysis Live Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-Using the example of **Villa savoye**, a demonstration illustrated how automated updates on Speckle could instantly reflect design adjustments. For instance, if a new overhang was added over ribbon windows, the radiation analysis and structural load information updated almost immediately. 
 
 This allowed architects and structural engineers to see the impact of their changes in real time, encouraging more meaningful design discussions. For example, an architect focused on daylighting could see the structural engineer's concerns about load distribution and deflection, leading to a collaborative dialogue about balancing aesthetics and functionality.
 
