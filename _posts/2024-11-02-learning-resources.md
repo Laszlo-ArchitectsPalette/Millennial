@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Laszlo Andrasi"
-categories: resources
+categories: Posts
 tags: [documentation,sample]
 image: Learning.jpg
 ---
