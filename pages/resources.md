@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Services
-category: resources
-permalink: /resources
+category: services
+permalink: /services
 ---
+
