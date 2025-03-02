@@ -16,4 +16,4 @@ social media.
 
 **If you are interested in ordering a house portait, please use the form below!**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJbPG_9K9rb7MIWjf-eIlg-IZIUE6hRreAsfX8Tq38J3FtSQ/viewform?embedded=true" style="width:100%; max-width:1024px; height:auto;">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJbPG_9K9rb7MIWjf-eIlg-IZIUE6hRreAsfX8Tq38J3FtSQ/viewform?embedded=true" style="width:100%; max-width:1024px; height:1024px;">
