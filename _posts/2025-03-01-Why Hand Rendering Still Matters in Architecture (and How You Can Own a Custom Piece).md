@@ -4,7 +4,7 @@ title: "Why Hand Rendering Still Matters in Architecture (and How You Can Own a 
 author: "Laszlo Andrasi"
 categories: Resources
 tags: [Resources]
-image: Pencil Hand Rendering Services/House Portrait_1.jpg
+image: Services/House Portrait_1.jpg
 
 ---
 
