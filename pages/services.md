@@ -4,8 +4,6 @@ title: Services
 permalink: /services
 ---
 
----
-
 ## **Bringing Architectural Art into Your Space: My Rendering Services**
 If you appreciate the beauty of hand-rendered architecture, you can own a custom piece through one of my three offerings:
 
