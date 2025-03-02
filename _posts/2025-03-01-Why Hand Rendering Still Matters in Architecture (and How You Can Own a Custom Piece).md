@@ -2,8 +2,8 @@
 layout: post
 title: "Why Hand Rendering Still Matters in Architecture (and How You Can Own a Custom Piece)"
 author: "Laszlo Andrasi"
-categories: Servoces
-tags: Services]
+categories: Services
+tags: Services
 image: Services/House Portrait_1.jpg
 
 ---
@@ -56,7 +56,7 @@ Many design directors already use sketches as **starting points** for 3D modeler
 
 ---
 
-## **2. Bringing Architectural Art into Your Space: My Rendering Services**
+## **2. House Portrait Services**
 If you appreciate the beauty of hand-rendered architecture, you can own a custom piece through one of my three offerings:
 
 ### **2.1 Pencil Sketch**
