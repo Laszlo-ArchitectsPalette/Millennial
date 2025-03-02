@@ -18,7 +18,7 @@ So, why does hand rendering still matter, and why should you bring it into your 
 
 ---
 
-## The Value of Hand Rendering in Architecture**
+## **The Value of Hand Rendering in Architecture**
 
 ### **Capturing Emotion and Atmosphere**
 Throughout my career, I’ve noticed that some of the most respected designers, from design directors to technical leads, excelled in hand sketching. Why? Because hand rendering enables architects to quickly capture the **atmosphere and essence** of a space.
