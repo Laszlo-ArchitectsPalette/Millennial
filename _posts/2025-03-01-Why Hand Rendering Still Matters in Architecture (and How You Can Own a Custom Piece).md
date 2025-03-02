@@ -24,20 +24,18 @@ So, why does hand rendering still matter, and why should you bring it into your 
 ### **1.1 Capturing Emotion and Atmosphere**
 Throughout my career, I’ve noticed that some of the most respected designers, from design directors to technical leads, excelled in hand sketching. Why? Because hand rendering enables architects to quickly capture the **atmosphere and essence** of a space.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Services/Outpatient Sketch1.png" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Services/Resort1.png" style="width:100%; max-width:1024px; height:auto;">
 
 This is particularly powerful in **hospitality architecture**, where buildings are more than functional spaces—they are experiences. Hand sketches create a romanticized, artistic vision that attracts clients and brings architectural concepts to life. The ability to express an idea with a few dynamic strokes can make a space feel warm, inviting, and unique.
 
 ### **1.2 Enhancing Design Thinking**
 Hand sketching is an incredibly effective **design exploration tool**. It allows architects to:
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Services/Resort1.png" style="width:100%; max-width:1024px; height:auto;">
-
 - Rapidly generate ideas without the constraints of 3D modeling software.
 - Think through design problems with their hands and minds simultaneously.
 - Iterate faster, moving from rough massing to detailed concepts without getting lost in software settings.
 
-<img src="https://laz-ap.github.io/thoughts/assets/img/Services/Hospitality1.png" style="width:100%; max-width:1024px; height:auto;">
+<img src="https://laz-ap.github.io/thoughts/assets/img/Services/Outpatient Sketch1.png" style="width:100%; max-width:1024px; height:auto;">
 
 By blending analog and digital tools, architects can work more fluidly. For example, setting up a quick 3D model to define massing and lighting conditions, then printing or projecting that image for hand sketching, creates a hybrid workflow that fosters creativity. The ability to **move between sketching and digital tools** leads to richer, more thoughtful designs.
 
