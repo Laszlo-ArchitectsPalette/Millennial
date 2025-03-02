@@ -2,8 +2,8 @@
 layout: post
 title: "Why Hand Rendering Still Matters in Architecture (and How You Can Own a Custom Piece)"
 author: "Laszlo Andrasi"
-categories: Resources
-tags: [Resources]
+categories: Servoces
+tags: Services]
 image: Services/House Portrait_1.jpg
 
 ---
