@@ -4,7 +4,7 @@ title: "Why Hand Rendering Still Matters in Architecture (and How You Can Own a 
 author: "Laszlo Andrasi"
 categories: services
 tags: [posts]
-image: Living-Ruins-2024/Summit_Render_FINAL.jpg
+image: Services/Extra Wide_Pencil.png
 ---
 
 ## **Why Hand Rendering Still Matters in Architecture (and How You Can Own a Custom Piece)**
